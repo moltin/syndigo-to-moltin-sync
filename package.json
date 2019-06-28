@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@moltin/request": "^2.0.1"
+  },
+  "devDependencies": {
+    "@moltin/eslint-config": "^1.0.0",
+    "serverless-offline": "^5.5.0"
+  }
+}

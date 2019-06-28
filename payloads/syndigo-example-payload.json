@@ -1,0 +1,748 @@
+[
+  {
+    "EdgenetId": "57f10458-0db5-47ed-bcc6-ddf0dbfa5904",
+    "Identifier": "00605876269959",
+    "Values": [
+      {
+        "Attribute": "sku",
+        "Language": "en-US",
+        "Value": "test"
+      },
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "395100"
+      },
+      {
+        "Attribute": "Internal Supplier Part #",
+        "Language": "en-US",
+        "Value": "5"
+      },
+      {
+        "Attribute": "Main Product Image",
+        "Language": "en-US",
+        "Value": "http://assets.edgenet.com/0b73f005-2a96-40be-bea4-cabef1f34a8f"
+      },
+      {
+        "Attribute": "UPC",
+        "Language": "en-US",
+        "Value": "605876269959"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Farrah Dresser"
+      },
+      {
+        "Attribute": "Minimum Order Quantity",
+        "Language": "en-US",
+        "Value": "1"
+      },
+      {
+        "Attribute": "Multiple Order Quantity",
+        "Language": "en-US",
+        "Value": "1"
+      },
+      {
+        "Attribute": "Net Package Quantity",
+        "Language": "en-US",
+        "Value": "1.0"
+      },
+      {
+        "Attribute": "Package Weight",
+        "Language": "en-US",
+        "Value": "114.64"
+      },
+      {
+        "Attribute": "Package Height",
+        "Language": "en-US",
+        "Value": "30.31"
+      },
+      {
+        "Attribute": "Package Width",
+        "Language": "en-US",
+        "Value": "42.52"
+      },
+      {
+        "Attribute": "Package Depth",
+        "Language": "en-US",
+        "Value": "34.65"
+      },
+      {
+        "Attribute": "Marketing Copy",
+        "Language": "en-US",
+        "Value": "The Farrah collection from Pulaski exemplifies opulence and glamour. Featuring a multi-step metallic finish, antique mirror borders add a touch of sparkle and silver drop- ring pulls complete the sophisticated and elegant look."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "Eight drawers"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "Top drawers have felt bottoms"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 3",
+        "Language": "en-US",
+        "Value": "Bottom drawers have cedar bottoms"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 4",
+        "Language": "en-US",
+        "Value": "Ball bearing side drawer guides"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 5",
+        "Language": "en-US",
+        "Value": "Bracket feet"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 6",
+        "Language": "en-US",
+        "Value": "Dust proofing"
+      },
+      {
+        "Attribute": "Country of Origin",
+        "Language": "en-US",
+        "Value": "156"
+      },
+      {
+        "Attribute": "Order Lead Time",
+        "Language": "en-US",
+        "Value": "5"
+      },
+      {
+        "Attribute": "Brand",
+        "Language": "en-US",
+        "Value": "Edgenet Test"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "395100"
+      }
+    ]
+  },
+  {
+    "EdgenetId": "77d9e2e2-de20-4fac-ac6a-e4cffa925e79",
+    "Identifier": "00605876219602",
+    "CategoryName": "Dressers & Dresser Chests",
+    "Values": [
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "211101"
+      },
+      {
+        "Attribute": "Internal Supplier Part #",
+        "Language": "en-US",
+        "Value": "5"
+      },
+      {
+        "Attribute": "Main Product Image",
+        "Language": "en-US",
+        "Value": "http://assets.edgenet.com/9d1f7707-fda7-47f4-9eb4-069fe39c39be"
+      },
+      {
+        "Attribute": "UPC",
+        "Language": "en-US",
+        "Value": "605876219602"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Curved End Dresser"
+      },
+      {
+        "Attribute": "Minimum Order Quantity",
+        "Language": "en-US",
+        "Value": "1"
+      },
+      {
+        "Attribute": "Multiple Order Quantity",
+        "Language": "en-US",
+        "Value": "1"
+      },
+      {
+        "Attribute": "Net Package Quantity",
+        "Language": "en-US",
+        "Value": "1.0"
+      },
+      {
+        "Attribute": "Package Weight",
+        "Language": "en-US",
+        "Value": "121.4"
+      },
+      {
+        "Attribute": "Package Height",
+        "Language": "en-US",
+        "Value": "33.8"
+      },
+      {
+        "Attribute": "Package Width",
+        "Language": "en-US",
+        "Value": "33.0"
+      },
+      {
+        "Attribute": "Package Depth",
+        "Language": "en-US",
+        "Value": "30.3"
+      },
+      {
+        "Attribute": "Marketing Copy",
+        "Language": "en-US",
+        "Value": "A uniquely elegant and romantic collection, Arabella, part of Eccentrics home by Pulaski Furniture, brings a fresh look to the bedroom. Unmatched in its inspiration, Arabella is rooted in classic design with a hint of rustic charm, as well as a touch of bling. The small dresser has gracefully curved ends with storage behind a shaped door., and four drawers."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "Shaped top and ends"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "Decorative moldings"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 3",
+        "Language": "en-US",
+        "Value": "Two doors with adjustable shelf behind each"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 4",
+        "Language": "en-US",
+        "Value": "Four wide drawers"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 5",
+        "Language": "en-US",
+        "Value": "Cedar drawer bottom in bottom drawer"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 6",
+        "Language": "en-US",
+        "Value": "Ball bearing side drawer guides"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 7",
+        "Language": "en-US",
+        "Value": "Dust-proofing"
+      },
+      {
+        "Attribute": "Country of Origin",
+        "Language": "en-US",
+        "Value": "156"
+      },
+      {
+        "Attribute": "Order Lead Time",
+        "Language": "en-US",
+        "Value": "5"
+      },
+      {
+        "Attribute": "Brand",
+        "Language": "en-US",
+        "Value": "Edgenet Test"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "211101"
+      }
+    ]
+  },
+  {
+    "EdgenetId": "98e90ab2-23bf-7115-b365-83700b8e93f2",
+    "Identifier": "00785367829374",
+    "CategoryName": "Rust Preventative",
+    "Values": [
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "TEST1234567"
+      },
+      {
+        "Attribute": "Internal Supplier Part #",
+        "Language": "en-US",
+        "Value": "TEST1234567"
+      },
+      {
+        "Attribute": "Main Product Image",
+        "Language": "en-US",
+        "Value": "http://assets.edgenet.com/753dac6d-ea93-4cb0-a7d1-684937bf8076"
+      },
+      {
+        "Attribute": "UPC",
+        "Language": "en-US",
+        "Value": "785367829374"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Polished Chrome Push-Pull Bathtub Stopper"
+      },
+      {
+        "Attribute": "Marketing Copy",
+        "Language": "en-US",
+        "Value": "This bathtub stopper is ideal for retro-fits in hotels, motels, and rental properties."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "1-1/2 In., 1-1/2 In. coarse thread"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "Theft-Resistant, Solid Brass Design"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 3",
+        "Language": "en-US",
+        "Value": "Bottom drawers have cedar bottoms"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 4",
+        "Language": "en-US",
+        "Value": "Eliminate Costly, Hard To Find, Overflow Linkages"
+      },
+      {
+        "Attribute": "Brand",
+        "Language": "en-US",
+        "Value": "Syndigo Brand"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "TEST"
+      }
+    ]
+  },
+  {
+    "EdgenetId": "3bb3d93f-1245-456b-a96a-3e45e878a1de",
+    "Identifier": "008830493",
+    "CategoryName": "Portable",
+    "Values": [
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "P01001 "
+      },
+      {
+        "Attribute": "Main Product Image",
+        "Language": "en-US",
+        "Value": "http://assets.edgenet.com/1c30ca9a-d4c5-4492-9b7d-a75a23b35115"
+      },
+      {
+        "Attribute": "UPC",
+        "Language": "en-US",
+        "Value": "215896523650"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Gas Powered 1050 Watt Extended Run Time Portable Generator"
+      },
+      {
+        "Attribute": "Marketing Copy",
+        "Language": "en-US",
+        "Value": "Placeholder."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "Cast iron sleeved engine for long durability with automatic low oil shutdown protection"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "Largest tank in the industry with extended run-time (less re-fueling) with integrated fuel gauge for convenience"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 3",
+        "Language": "en-US",
+        "Value": "Quiet muffler (Whisper Series) with USDA FS certified spark arrester"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 4",
+        "Language": "en-US",
+        "Value": "Bonus accessories including engine oil funnel and tool kit"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "P01001"
+      }
+    ]
+  },
+  {
+    "EdgenetId": "4708d2d3-2c5d-f006-a52e-4fc28f9c1388",
+    "Identifier": "00123764890982",
+    "CategoryName": "Low Voltage",
+    "Values": [
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "T606MSN-4"
+      },
+      {
+        "Attribute": "Internal Supplier Part #",
+        "Language": "en-US",
+        "Value": "T606MSN-4"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Low Voltage Thermostat"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "Patented grid manufacturing technology produces grids engineered to be more efficient for optimal performance"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "Password protection option"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 3",
+        "Language": "en-US",
+        "Value": "Backlit Liquid Crystal Display"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 4",
+        "Language": "en-US",
+        "Value": "Simplified setpoint adjustment"
+      },
+      {
+        "Attribute": "Brand",
+        "Language": "en-US",
+        "Value": "Syndigo Brand"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "T606MSN"
+      }
+    ]
+  },
+  {
+    "EdgenetId": "ad3f7b93-ee70-47a9-bde9-8495621c953e",
+    "Identifier": "00546698461841",
+    "CategoryName": "Electric",
+    "Values": [
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "1234561"
+      },
+      {
+        "Attribute": "Main Product Image",
+        "Language": "en-US",
+        "Value": "http://assets.edgenet.com/30de04ba-1168-449a-aada-a616b4fbc0c1"
+      },
+      {
+        "Attribute": "UPC",
+        "Language": "en-US",
+        "Value": "546698461841"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Stackable Electric Dryer"
+      },
+      {
+        "Attribute": "Marketing Copy",
+        "Language": "en-US",
+        "Value": "Care for your clothing without taking up space with this dryer. Offers auto dry and timed dry for up to 60 minutes. This eco-friendly dryer is compact in design and ideal for apartment living."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "Extra-large capacity accommodates large loads and bulky items, like comforters."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "5 temperature selections and 8 cycles offer a variety of drying options."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 3",
+        "Language": "en-US",
+        "Value": "White exterior for a bright, clean look."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 4",
+        "Language": "en-US",
+        "Value": "Dial-a-cycle controls with easy-to-read dual LED display indicators help you find the right setting every time."
+      },
+      {
+        "Attribute": "Brand",
+        "Language": "en-US",
+        "Value": "Syndigo Brand"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "1234561"
+      },
+      {
+        "Attribute": "Actual Product Weight",
+        "Language": "en-US",
+        "Value": "130"
+      },
+      {
+        "Attribute": "Product Max Height (Top to Bottom)",
+        "Language": "en-US",
+        "Value": "38.6875"
+      },
+      {
+        "Attribute": "Product Max Width (Side to Side)",
+        "Language": "en-US",
+        "Value": "27"
+      },
+      {
+        "Attribute": "Product Max Depth (Front to Back)",
+        "Language": "en-US",
+        "Value": "51"
+      }
+    ]
+  },
+  {
+    "EdgenetId": "539121db-fbd8-4ac3-b62a-42a743da02f4",
+    "Identifier": "00189685961858",
+    "CategoryName": "Registers",
+    "Values": [
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "66848"
+      },
+      {
+        "Attribute": "Main Product Image",
+        "Language": "en-US",
+        "Value": "http://assets.edgenet.com/56b6a409-071c-476c-9b2f-da5653ab6fd2"
+      },
+      {
+        "Attribute": "UPC",
+        "Language": "en-US",
+        "Value": "189685961858"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Steel Floor Register"
+      },
+      {
+        "Attribute": "Marketing Copy",
+        "Language": "en-US",
+        "Value": "Our steel floor register has a clean, sleek look and features a slotted pattern that will look wonderful in your modern home. Adjustable louvers allow for air flow control, and can be removed if desired."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "Patented grid manufacturing technology produces grids engineered to be more efficient for optimal performance"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "Welded/steel construction"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 3",
+        "Language": "en-US",
+        "Value": "Multi-angled rolled fins"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 4",
+        "Language": "en-US",
+        "Value": "Air flow control"
+      },
+      {
+        "Attribute": "Manufacturer Warranty",
+        "Language": "en-US",
+        "Value": "Limited Lifetime"
+      },
+      {
+        "Attribute": "Brand",
+        "Language": "en-US",
+        "Value": "Syndigo Brand"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "ABFRBR410"
+      }
+    ]
+  },
+  {
+    "EdgenetId": "829cf578-b519-5d79-247d-caf33fe7882d",
+    "Identifier": "00000000000000",
+    "CategoryName": "Battery Testers / Analyzers",
+    "Values": [
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "500F"
+      },
+      {
+        "Attribute": "Internal Supplier Part #",
+        "Language": "en-US",
+        "Value": "500F"
+      },
+      {
+        "Attribute": "Main Product Image",
+        "Language": "en-US",
+        "Value": "http://assets.edgenet.com/d6f438b8-0b30-40fc-ae67-b5c86192c7ef"
+      },
+      {
+        "Attribute": "UPC",
+        "Language": "en-US",
+        "Value": "000000000000"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Battery Analyzer for Stationary Battery Systems"
+      },
+      {
+        "Attribute": "Marketing Copy",
+        "Language": "en-US",
+        "Value": "Reduced testing complexity, a simplified workflow and an intuitive user interface provide a new level of ease-of-use in battery testing."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "The ideal test tool for maintenance, troubleshooting and performance testing of individual stationary batteries and battery banks used in critical battery back-up applications"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "The intuitive user interface, compact design and rugged construction ensure optimum performance, test results and reliability"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 3",
+        "Language": "en-US",
+        "Value": "Covers a broad range of battery test functions ranging from DC voltage and resistance tests to full condition testing using automated string function testing and the test probe integrated infra-red temperature measurement system"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 4",
+        "Language": "en-US",
+        "Value": "Designed for measurements on stationary batteries of all types.  "
+      },
+      {
+        "Attribute": "Brand",
+        "Language": "en-US",
+        "Value": "Edgenet Test"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "500"
+      }
+    ]
+  },
+  {
+    "EdgenetId": "997bd0c0-85d9-4c0a-97ec-fb2ccb332d6d",
+    "Identifier": "00251841981984",
+    "CategoryName": "Totes & Boxes",
+    "Values": [
+      {
+        "Attribute": "Moltin Product ID",
+        "Language": "en-US",
+        "Value": "9c40f78c-e35a-41ca-8357-d6d805696371"
+      },
+      {
+        "Attribute": "MFG Part # (OEM)",
+        "Language": "en-US",
+        "Value": "336491"
+      },
+      {
+        "Attribute": "Internal Supplier Part #",
+        "Language": "en-US",
+        "Value": "5"
+      },
+      {
+        "Attribute": "Main Product Image",
+        "Language": "en-US",
+        "Value": "http://assets.edgenet.com/3513198e-c077-4fbe-a821-db9b2c979532"
+      },
+      {
+        "Attribute": "UPC",
+        "Language": "en-US",
+        "Value": "251841981984"
+      },
+      {
+        "Attribute": "Product Name",
+        "Language": "en-US",
+        "Value": "Clear Tote"
+      },
+      {
+        "Attribute": "Marketing Copy",
+        "Language": "en-US",
+        "Value": "Placeholder."
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 1",
+        "Language": "en-US",
+        "Value": "Double rim strength prevents bowing"
+      },
+      {
+        "Attribute": "Feature - Benefit Bullet 2",
+        "Language": "en-US",
+        "Value": "Stack different sizes in multiple configurations"
+      },
+      {
+        "Attribute": "Brand",
+        "Language": "en-US",
+        "Value": "Edgenet Test"
+      },
+      {
+        "Attribute": "Manufacturer Model Number",
+        "Language": "en-US",
+        "Value": "7103HFT-10-111-44"
+      }
+    ]
+  }]

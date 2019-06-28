@@ -1,0 +1,29 @@
+service: syndigo-moltin
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+
+  stage: dev
+  region: us-east-1
+
+  environment: ${file(.env.yml)}
+
+package:
+ include:
+   - handler.js
+   - moltin/**
+ exclude:
+   - payloads/**
+
+plugins:
+  - serverless-offline
+
+functions:
+  updateCatalogue:
+    handler: handler.updateCatalogue
+
+    events:
+      - http:
+          path: catalogue/update
+          method: get
