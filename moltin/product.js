@@ -1,4 +1,4 @@
-const exports = module.exports = {}
+var exports = module.exports = {}
 
 const { MoltinClient } = require('@moltin/request')
 

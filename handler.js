@@ -5,9 +5,16 @@ const responseBuilder = (code, message) => ({
   body: JSON.stringify(message),
 })
 
-module.exports.updateCatalogue = async (json) => {
+module.exports.updateCatalogue = async (event) => {
   try {
-    json = require('./payloads/syndigo-example-payload.json')
+    let json
+
+    if(event.body === null) {
+      json = require('./payloads/syndigo-example-payload.json')
+    } else {
+      json = event.body
+    }
+    
     await utils.processProducts(json)
     return responseBuilder(200, 'OK')
   } catch (e) {

@@ -1,4 +1,4 @@
-const exports = module.exports = {}
+var exports = module.exports = {}
 const moltinProduct = require('./moltin/product')
 const moltinFlow = require('./moltin/flow')
 

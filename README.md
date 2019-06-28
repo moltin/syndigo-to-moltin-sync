@@ -28,7 +28,7 @@ yarn
 2. Rename `.example.env.yml`
 
 ```bash
-cp .example.env.yml .example.yml 
+cp .example.env.yml .env.yml 
 ```
 
 3. Add values for your Moltin credentials in `.env.yml`
